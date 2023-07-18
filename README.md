@@ -1,6 +1,6 @@
 # springboot-java-project
 
-#commands are used in the Maven project
+#commands which are used in the Maven Project
 
 sudo apt-get update -y
 
