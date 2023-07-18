@@ -17,8 +17,11 @@ mvn validate
 mvn compile
 
 mvn test
+
 mvn package
+
 mvn install
+
 mvn deploy
 
 java -jar target/spring-boot-web.jar
